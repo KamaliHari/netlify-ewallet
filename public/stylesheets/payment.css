@@ -1,0 +1,25 @@
+ul {
+    
+    font-family: "David Libre";
+    font-size: 30px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    margin-left: 600px;
+    
+  }
+  
+  li a {
+    
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+ 
+  

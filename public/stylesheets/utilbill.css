@@ -1,0 +1,39 @@
+label1 {
+    display: inline-block;
+    width: 500px;
+    text-align: right;
+    margin-left: 0px;
+  }
+  hr.solid2 {
+    margin-left:230px;
+    margin-top:10px;
+    margin-bottom:30px;
+    width:35%;
+    border-top: 1.5px solid #000000;
+    }
+    label2 {
+        display: inline-block;
+        width: 500px;
+        text-align: right ;
+        margin-left: 00px;
+      }
+      hr.solid3 {
+        margin-left:190px;
+        margin-top:10px;
+        margin-bottom:30px;
+        width:40%;
+        border-top: 1.5px solid #000000;
+        }
+        hr.solid4 {
+            margin-left:210px;
+            margin-top:10px;
+            margin-bottom:30px;
+            width:30%;
+            border-top: 1.5px solid #000000;
+            }
+      
+      .center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+      
